@@ -1,5 +1,8 @@
 # Lattice-OS
 
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/12b81df5-0e6c-4a01-9fcd-7b2dba1fc648" />
+
+
 **A multi-dimensional geometric AI runtime, packaged as a Tauri desktop app.**
 
 Lattice-OS treats a codebase as a live, directed acyclic graph tensor instead of text files. Language
